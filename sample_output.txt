@@ -1,0 +1,9 @@
+PATIENT VITAL SIGNS MONITORING SYSTEM
+Enter Heart Rate (bpm): 120
+Enter SpO2 Level (%): 91
+
+--- Patient Report ---
+Heart Rate: 120 bpm
+SpO2 Level: 91%
+Heart Rate: Outside the configured range
+SpO2: Outside the configured range

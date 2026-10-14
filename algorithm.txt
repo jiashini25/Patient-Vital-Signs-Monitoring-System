@@ -1,0 +1,13 @@
+**Algorithm: Patient Vital Signs Monitoring System**
+
+1. Start the program.
+2. Declare variables for heart rate and SpO₂.
+3. Read the patient's heart rate.
+4. Read the patient's SpO₂ level.
+5. Display the entered readings.
+6. Check whether the heart rate is outside the configured range of 60–100 bpm.
+7. Check whether the SpO₂ is outside the configured range of 95–100%.
+8. Display the corresponding status for each reading.
+9. Stop the program.
+
+**Note:** The ranges are illustrative programming thresholds, not a substitute for clinical assessment.
